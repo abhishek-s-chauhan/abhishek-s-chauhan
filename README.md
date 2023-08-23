@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhishek-s-chauhan
+- 👋 Hi, I’m @abhishek-singh-chauhan
 - 👀 I’m interested in Full-Stack Development 
-- 🌱 I’m currently learning MERN Stack 
+
 
 <!---
 abhishek-s-chauhan/abhishek-s-chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
